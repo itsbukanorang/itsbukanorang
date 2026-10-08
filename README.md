@@ -1,101 +1,49 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B2C58,100:6D28D9&height=190&section=header&text=BUKAN%20ORANG%20TEKNOLOGI&fontSize=32&fontColor=FFFFFF&fontAlignY=37&animation=fadeIn&desc=FUTURE%20IS%20HERE&descAlignY=59&descSize=17" />
+<img src="./assets/cyber-hero.svg" width="100%" alt="Bukan Orang Teknologi — AI-Assisted Software Engineer and Web & App Developer" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=650&lines=AI-Assisted+Software+Engineer;Web+%26+App+Developer;Building+Practical+Digital+Solutions;Exploring+AI+%26+Modern+Technology" alt="Animated Developer Introduction" />
+<br />
 
-<br/>
+**`> BUILD WITH PURPOSE`** &nbsp; · &nbsp; **`> LEARN CONTINUOUSLY`** &nbsp; · &nbsp; **`> SHIP BETTER SOFTWARE`**
 
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-0B2C58?style=for-the-badge" />
-<img src="https://img.shields.io/badge/WORKFLOW-AI%20ASSISTED-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING-0891B2?style=for-the-badge" />
+<br />
+
+<img src="https://img.shields.io/badge/LOCATION-INDONESIA-12213A?style=for-the-badge&labelColor=071120&color=1679B9" alt="Location: Indonesia" />
+<img src="https://img.shields.io/badge/WORKFLOW-AI--ASSISTED-12213A?style=for-the-badge&labelColor=071120&color=6949CE" alt="AI-assisted workflow" />
+<img src="https://img.shields.io/badge/CURRENT_MODE-BUILDING-12213A?style=for-the-badge&labelColor=071120&color=1679B9" alt="Current mode: Building" />
 
 </div>
 
----
+### `01 / SYSTEM IDENTITY`
 
-### `root@bukanorang:~# whoami`
+<img src="./assets/developer-terminal.svg" width="100%" alt="Terminal displaying developer identity and engineering focus" />
 
-```bash
-$ whoami
-Bukan Orang Teknologi
+I build and explore web applications, backend systems, and practical software tools with **AI-assisted development workflows**. My approach is simple: understand the problem, design carefully, build iteratively, and keep learning.
 
-$ cat developer.profile
-Role       : AI-Assisted Software Engineer
-Specialty  : Web & Application Development
-Approach   : AI-Assisted Engineering
-Location   : Indonesia
-Interests  : Backend Systems, AI, Automation
+### `02 / TECHNOLOGY STACK`
 
-$ echo $MISSION
-"Turning ideas into functional digital solutions."
+<img src="./assets/tech-stack.svg" width="100%" alt="Tools and technologies: Go, Python, JavaScript, React, PostgreSQL, Redis, Docker, Nginx, Linux, Git" />
 
-$ systemctl status future
-● future.service - ACTIVE (RUNNING)
-```
+### `03 / ENGINEERING FOCUS`
 
-### `root@bukanorang:~# tech-stack`
+| `MODULE` | `WHAT I WORK ON` |
+| :--- | :--- |
+| `01 // WEB` | Responsive frontends and practical user experiences |
+| `02 // BACKEND` | APIs, application logic, databases, and integrations |
+| `03 // AI` | AI-assisted development and useful automation workflows |
+| `04 // INFRA` | Linux server operations, deployment, and monitoring |
 
-<div align="center">
+### `04 / SELECTED WORK`
 
-**LANGUAGES & BACKEND**
+Most of my current engineering work is in **private repositories**. I share public repositories as projects become ready to showcase. Nothing confidential or production-sensitive is published here.
 
-<img src="https://skillicons.dev/icons?i=go,python,js,ts,nodejs,postgres,redis&theme=dark" />
-
-<br/><br/>
-
-**FRONTEND & APPLICATIONS**
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark" />
-
-<br/><br/>
-
-**INFRASTRUCTURE & TOOLS**
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,git,github,vscode&theme=dark" />
-
-</div>
-
----
-
-### `root@bukanorang:~# engineering-focus`
-
-```text
-╔══════════════════════════════════════════════╗
-║            ENGINEERING WORKSPACE             ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  [01] WEB APPLICATION DEVELOPMENT            ║
-║       Frontend & Backend Systems             ║
-║                                              ║
-║  [02] AI-ASSISTED ENGINEERING                ║
-║       AI Tools & Development Workflows       ║
-║                                              ║
-║  [03] APPLICATION ARCHITECTURE                ║
-║       APIs, Databases & Integrations         ║
-║                                              ║
-║  [04] SERVER & DEPLOYMENT                     ║
-║       Linux, Nginx & Infrastructure          ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
-### `root@bukanorang:~# development-philosophy`
-
-> **Build with purpose. Learn continuously. Improve with every iteration.**
-
-I enjoy exploring practical approaches to software development, combining programming fundamentals with AI-assisted workflows to build web applications, backend services, and useful digital tools.
-
-My focus is on continuous learning, problem-solving, and turning concepts into working software.
-
----
-
-### `root@bukanorang:~# github-activity`
+### `05 / GITHUB ACTIVITY`
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsbukanorang&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=38BDF8&area=true&area_color=1E3A8A&hide_border=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsbukanorang&bg_color=0d1117&color=73c7ff&line=8b5cf6&point=55d9ef&area=true&hide_border=true&custom_title=Engineering%20Activity" width="100%" alt="Public GitHub contribution activity graph for itsbukanorang" />
+
+<sub>Activity graph reflects public contribution data available to the provider. GitHub's native contribution calendar remains the authoritative profile view.</sub>
 
 </div>
 
@@ -103,17 +51,10 @@ My focus is on continuous learning, problem-solving, and turning concepts into w
 
 <div align="center">
 
-```text
-> INITIALIZING FUTURE...
-> BUILDING IDEAS...
-> LEARNING EVERY DAY...
-> SYSTEM READY.
-```
-
-**BUKAN ORANG TEKNOLOGI**
+**`BUKAN ORANG TEKNOLOGI`**
 
 *Future Is Here.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:0B2C58,100:050816&height=100&section=footer" width="100%" />
+[**GitHub Profile**](https://github.com/itsbukanorang)
 
 </div>
