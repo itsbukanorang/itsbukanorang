@@ -1,20 +1,25 @@
 <div align="center">
 
-<img src="./assets/cyber-hero.svg" width="100%" alt="Bukan Orang Teknologi" />
+<img src="./assets/cyber-hero.svg" width="100%" alt="🇮🇩 Bukan Orang Teknologi — Premium Cyber Engineer" />
 
 <br />
 
-<h1>Bukan Orang Teknologi</h1>
-<p><strong>AI-Assisted Software Engineer</strong> · <strong>Web & App Developer</strong></p>
-<p>Build. Learn. Improve. Repeat.</p>
+# 🇮🇩 Bukan Orang Teknologi
+
+### AI-Assisted Software Engineer · Web & App Developer
+
+<p><em>Build. Learn. Improve. Repeat.</em></p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=%24+whoami;Bukan+Orang+Teknologi;%24+role;AI-Assisted+Software+Engineer+%7C+Web+%26+App+Developer;%24+location;Indonesia;%24+status;Building+practical+digital+solutions" alt="Typing terminal intro" />
+
+<br />
 
 <p>
-  <a href="https://github.com/itsbukanorang?tab=repositories">Repositories</a> •
   <a href="#whoami">whoami</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#engineering-focus">Engineering Focus</a> •
-  <a href="#github-activity">GitHub Activity</a> •
-  <a href="#connect">Connect</a>
+  <a href="#tech-stack">tech stack</a> •
+  <a href="#engineering-focus">engineering focus</a> •
+  <a href="#github-activity">github activity</a> •
+  <a href="#connect">connect</a>
 </p>
 
 </div>
@@ -26,7 +31,15 @@
 <div id="whoami"></div>
 
 <details open>
-<summary><strong>Open terminal profile</strong></summary>
+<summary><strong>Open interactive terminal</strong></summary>
+
+<br />
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=900&color=C9D1D9&center=false&vCenter=true&multiline=true&repeat=true&width=900&height=180&lines=itsbukanorang%40github%3A~%24+whoami;Bukan+Orang+Teknologi;itsbukanorang%40github%3A~%24+cat+role.txt;AI-Assisted+Software+Engineer;Web+%26+App+Developer;itsbukanorang%40github%3A~%24+cat+location.txt;Indonesia;itsbukanorang%40github%3A~%24+echo+%24MINDSET;Build.+Learn.+Improve.+Repeat." alt="Animated terminal typing" />
+
+</div>
 
 <br />
 
@@ -38,15 +51,12 @@ itsbukanorang@github:~$ cat role.txt
 AI-Assisted Software Engineer
 Web & App Developer
 
-itsbukanorang@github:~$ cat location.txt
-Indonesia
-
 itsbukanorang@github:~$ cat focus.txt
-Backend Systems
-Web Applications
-Automation
-AI-Assisted Development
-Linux & Infrastructure
+- Web Applications
+- Backend Systems
+- Automation
+- AI-Assisted Development
+- Linux & Infrastructure
 
 itsbukanorang@github:~$ echo $MINDSET
 Build. Learn. Improve. Repeat.
@@ -54,16 +64,16 @@ Build. Learn. Improve. Repeat.
 
 </details>
 
-I build practical software solutions with a focus on web applications, backend systems, automation, and AI-assisted development workflows.
+I build practical software solutions with a focus on **web applications**, **backend systems**, **automation**, and **AI-assisted development workflows**.
 
 ---
 
-## Tech Stack
+## tech stack
 
 <div id="tech-stack"></div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,js,ts,react,nodejs,postgres,redis,docker,nginx,linux,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,python,js,ts,react,nodejs,postgres,redis,docker,nginx,linux,git,github,vscode&theme=dark" alt="Tech stack icons" />
 </p>
 
 <p align="center">
@@ -97,7 +107,7 @@ I build practical software solutions with a focus on web applications, backend s
 
 ---
 
-## Engineering Focus
+## engineering focus
 
 <div id="engineering-focus"></div>
 
@@ -131,7 +141,7 @@ Linux environments, deployment workflows, service configuration, and monitoring.
 
 ---
 
-## Selected Work
+## selected work
 
 Most of my active engineering work is currently in **private repositories**.
 
@@ -140,24 +150,22 @@ No confidential or production-sensitive implementation details are published her
 
 ---
 
-## GitHub Activity
+## github activity
 
 <div id="github-activity"></div>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsbukanorang&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=7C3AED" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbukanorang&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsbukanorang&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=7C3AED" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbukanorang&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/itsbukanorang?tab=overview">
-    View full contribution calendar on GitHub
-  </a>
+  <a href="https://github.com/itsbukanorang?tab=overview">View full contribution calendar on GitHub</a>
 </p>
 
 ---
 
-## Connect
+## connect
 
 <div id="connect"></div>
 
@@ -171,7 +179,7 @@ No confidential or production-sensitive implementation details are published her
 
 <div align="center">
 
-<strong>Bukan Orang Teknologi</strong><br />
-<em>Future Is Here.</em>
+**🇮🇩 Bukan Orang Teknologi**  
+*Future Is Here.*
 
 </div>
