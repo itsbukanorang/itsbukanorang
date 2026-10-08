@@ -25,7 +25,7 @@
 
 ---
 
-## terminal
+## About Me
 
 <div id="terminal"></div>
 
@@ -45,7 +45,7 @@ I build practical software with a focus on **web applications**, **backend syste
 
 ---
 
-## tech stack
+## My Stacks
 
 <div id="tech-stack"></div>
 
@@ -70,7 +70,7 @@ I build practical software with a focus on **web applications**, **backend syste
 
 ---
 
-## github activity
+## Activities
 
 <div id="github-activity"></div>
 
