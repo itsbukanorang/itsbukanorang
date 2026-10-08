@@ -4,7 +4,7 @@
 
 <br />
 
-# 🇮🇩 Bukan Orang Teknologi
+# Bukan Orang Teknologi
 
 ### AI-Assisted Software Engineer · Web & App Developer
 
