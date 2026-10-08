@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="270" viewBox="0 0 1440 270" role="img" aria-label="Technology stack: Go Python JavaScript React PostgreSQL Redis Docker Nginx Linux Git">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070c17"/><stop offset="1" stop-color="#0b1424"/></linearGradient></defs>
+<rect width="1440" height="270" rx="18" fill="url(#bg)"/><rect x="1" y="1" width="1438" height="268" rx="17" fill="none" stroke="#263f65" stroke-width="2"/>
+<circle cx="34" cy="31" r="6" fill="#51d5e8"/><text x="52" y="38" font-size="19" font-family="monospace" font-weight="bold" letter-spacing="2" fill="#71cfff">TECH_STACK / ACTIVE MODULES</text>
+<text x="1400" y="38" text-anchor="end" font-size="15" font-family="monospace" fill="#869bb8">10 TECHNOLOGIES</text>
+<rect x="35" y="76" width="260" height="72" rx="11" fill="#101a2a" stroke="#2e4262" stroke-width="1.5"/>
+<rect x="48" y="89" width="46" height="46" rx="10" fill="#55d4ec" fill-opacity=".12" stroke="#55d4ec" stroke-opacity=".55"/>
+<text x="71" y="118" text-anchor="middle" font-size="17" font-family="monospace" font-weight="bold" fill="#55d4ec">GO</text>
+<text x="110" y="118" font-size="19" font-family="Arial,DejaVu Sans,sans-serif" font-weight="bold" fill="#e5f0ff">GOLANG</text>
+<rect x="312" y="76" width="260" height="72" rx="11" fill="#101a2a" stroke="#2e4262" stroke-width="1.5"/>
+<rect x="325" y="89" width="46" height="46" rx="10" fill="#e8c76a" fill-opacity=".12" stroke="#e8c76a" stroke-opacity=".55"/>
+<text x="348" y="118" text-anchor="middle" font-size="17" font-family="monospace" font-weight="bold" fill="#e8c76a">PY</text>
+<text x="387" y="118" font-size="19" font-family="Arial,DejaVu Sans,sans-serif" font-weight="bold" fill="#e5f0ff">PYTHON</text>
+<rect x="589" y="76" width="260" height="72" rx="11" fill="#101a2a" stroke="#2e4262" stroke-width="1.5"/>
+<rect x="602" y="89" width="46" height="46" rx="10" fill="#e8d452" fill-opacity=".12" stroke="#e8d452" stroke-opacity=".55"/>
+<text x="625" y="118" text-anchor="middle" font-size="17" font-family="monospace" font-weight="bold" fill="#e8d452">JS</text>
+<text x="664" y="118" font-size="19" font-family="Arial,DejaVu Sans,sans-serif" font-weight="bold" fill="#e5f0ff">JAVASCRIPT</text>
+<rect x="866" y="76" width="260" height="72" rx="11" fill="#101a2a" stroke="#2e4262" stroke-width="1.5"/>
+<rect x="879" y="89" width="46" height="46" rx="10" fill="#58d4fa" fill-opacity=".12" stroke="#58d4fa" stroke-opacity=".55"/>
+<text x="902" y="118" text-anchor="middle" font-size="17" font-family="monospace" font-weight="bold" fill="#58d4fa">RE</text>
+<text x="941" y="118" font-size="19" font-family="Arial,DejaVu Sans,sans-serif" font-weight="bold" fill="#e5f0ff">REACT</text>
+<rect x="1143" y="76" width="260" height="72" rx="11" fill="#101a2a" stroke="#2e4262" stroke-width="1.5"/>
+<rect x="1156" y="89" width="46" height="46" rx="10" fill="#75a7e5" fill-opacity=".12" stroke="#75a7e5" stroke-opacity=".55"/>
+<text x="1179" y="118" text-anchor="middle" font-size="17" font-family="monospace" font-weight="bold" fill="#75a7e5">PG</text>
+<text x="1218" y="118" font-size="19" font-family="Arial,DejaVu Sans,sans-serif" font-weight="bold" fill="#e5f0ff">POSTGRESQL</text>
+<rect x="35" y="167" width="260" height="72" rx="11" fill="#101a2a" stroke="#2e4262" stroke-width="1.5"/>
+<rect x="48" y="180" width="46" height="46" rx="10" fill="#e75a70" fill-opacity=".12" stroke="#e75a70" stroke-opacity=".55"/>
+<text x="71" y="209" text-anchor="middle" font-size="17" font-family="monospace" font-weight="bold" fill="#e75a70">RD</text>
+<text x="110" y="209" font-size="19" font-family="Arial,DejaVu Sans,sans-serif" font-weight="bold" fill="#e5f0ff">REDIS</text>
+<rect x="312" y="167" width="260" height="72" rx="11" fill="#101a2a" stroke="#2e4262" stroke-width="1.5"/>
+<rect x="325" y="180" width="46" height="46" rx="10" fill="#5daeff" fill-opacity=".12" stroke="#5daeff" stroke-opacity=".55"/>
+<text x="348" y="209" text-anchor="middle" font-size="17" font-family="monospace" font-weight="bold" fill="#5daeff">DK</text>
+<text x="387" y="209" font-size="19" font-family="Arial,DejaVu Sans,sans-serif" font-weight="bold" fill="#e5f0ff">DOCKER</text>
+<rect x="589" y="167" width="260" height="72" rx="11" fill="#101a2a" stroke="#2e4262" stroke-width="1.5"/>
+<rect x="602" y="180" width="46" height="46" rx="10" fill="#6de1a5" fill-opacity=".12" stroke="#6de1a5" stroke-opacity=".55"/>
+<text x="625" y="209" text-anchor="middle" font-size="17" font-family="monospace" font-weight="bold" fill="#6de1a5">NG</text>
+<text x="664" y="209" font-size="19" font-family="Arial,DejaVu Sans,sans-serif" font-weight="bold" fill="#e5f0ff">NGINX</text>
+<rect x="866" y="167" width="260" height="72" rx="11" fill="#101a2a" stroke="#2e4262" stroke-width="1.5"/>
+<rect x="879" y="180" width="46" height="46" rx="10" fill="#c9b6f5" fill-opacity=".12" stroke="#c9b6f5" stroke-opacity=".55"/>
+<text x="902" y="209" text-anchor="middle" font-size="17" font-family="monospace" font-weight="bold" fill="#c9b6f5">LX</text>
+<text x="941" y="209" font-size="19" font-family="Arial,DejaVu Sans,sans-serif" font-weight="bold" fill="#e5f0ff">LINUX</text>
+<rect x="1143" y="167" width="260" height="72" rx="11" fill="#101a2a" stroke="#2e4262" stroke-width="1.5"/>
+<rect x="1156" y="180" width="46" height="46" rx="10" fill="#f89574" fill-opacity=".12" stroke="#f89574" stroke-opacity=".55"/>
+<text x="1179" y="209" text-anchor="middle" font-size="17" font-family="monospace" font-weight="bold" fill="#f89574">GT</text>
+<text x="1218" y="209" font-size="19" font-family="Arial,DejaVu Sans,sans-serif" font-weight="bold" fill="#e5f0ff">GIT</text></svg>

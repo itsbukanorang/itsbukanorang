@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="340" viewBox="0 0 1440 340" role="img" aria-label="Bukan Orang Teknologi developer terminal introduction">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080e1a"/><stop offset="1" stop-color="#0c1626"/></linearGradient>
+<linearGradient id="title" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#13213c"/><stop offset="1" stop-color="#131529"/></linearGradient></defs>
+<rect width="1440" height="340" rx="18" fill="url(#bg)"/>
+<rect x="1" y="1" width="1438" height="338" rx="17" stroke="#2c466d" stroke-width="2" fill="none"/>
+<path d="M18 1H1422Q1439 1 1439 19V61H1V19Q1 1 18 1Z" fill="url(#title)"/>
+<circle cx="36" cy="30" r="7" fill="#fb6b7d"/><circle cx="61" cy="30" r="7" fill="#f3bd4c"/><circle cx="86" cy="30" r="7" fill="#4fd3a1"/>
+<text x="720" y="36" text-anchor="middle" font-family="monospace" font-size="19" fill="#bfd6f6">bukanorang@engineering:~ — developer.config</text>
+<text x="49" y="108" font-size="21" font-family="monospace" fill="#55dacd">➜  ~</text>
+<text x="142" y="108" font-size="21" font-family="monospace" fill="#e6f2ff">cat developer.config</text>
+<text x="49" y="158" font-size="21" font-family="monospace" fill="#8ba5cc">NAME</text><text x="254" y="158" font-size="21" font-family="monospace" fill="#bfd4ed">= Bukan Orang Teknologi</text>
+<text x="49" y="197" font-size="21" font-family="monospace" fill="#8ba5cc">ROLE</text><text x="254" y="197" font-size="21" font-family="monospace" fill="#bfd4ed">= AI-Assisted Software Engineer</text>
+<text x="49" y="236" font-size="21" font-family="monospace" fill="#8ba5cc">FOCUS</text><text x="254" y="236" font-size="21" font-family="monospace" fill="#bfd4ed">= Web / App / Backend / AI Workflows</text>
+<text x="49" y="296" font-size="21" font-family="monospace" fill="#55dacd">➜  ~</text><text x="142" y="296" font-size="21" font-family="monospace" fill="#e0c0ff">echo 'Future Is Here.'</text><rect x="503" y="278" width="12" height="23" fill="#55dacd" opacity=".8"/>
+<g opacity=".4"><path d="M985 140H1384 M985 181H1384 M985 222H1384 M985 263H1384" stroke="#263858" stroke-width="1"/>
+<text x="1062" y="127" font-size="13" font-family="monospace" letter-spacing="3" fill="#a89aff">STATUS</text><text x="1062" y="164" font-size="24" font-family="monospace" fill="#7be8cd">● ONLINE</text>
+<text x="1062" y="207" font-size="14" font-family="monospace" fill="#96b9ea">MODE: BUILD</text><text x="1062" y="247" font-size="14" font-family="monospace" fill="#96b9ea">VERSION: 2026</text></g>
+</svg>
