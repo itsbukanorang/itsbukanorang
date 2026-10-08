@@ -27,8 +27,6 @@
 <tr>
 <td>
 
-### `~/terminal`
-
 ```text
 🔴 🟡 🟢  itsbukanorang@github — zsh
 ```
